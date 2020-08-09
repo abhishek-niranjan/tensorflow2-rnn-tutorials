@@ -15,3 +15,6 @@ The tutorial notebooks in this repository are aimed to help beginners program ba
    
 2. ```tutorial-notebooks``` directory contains all the jupyter notebooks.
    * [Notebook-1 (text-processing):](https://github.com/abhishek-niranjan/tf2-rnn-tutorials-for-beginners/blob/master/tutorial-notebooks/1_text_processing.ipynb) explains how to   use ```tf.keras.preprocessing``` module to preprocess textual corpus and prepare ```tf.data.Dataset``` objects.
+   * [Notebook-2 (embedding-and-classification):](https://github.com/abhishek-niranjan/tf2-rnn-tutorials-for-beginners/blob/master/tutorial-notebooks/2_embeddings_and_classification.ipynb) Fundamentals of a many-to-one recurrent neural network and how to program it in tensorflow-2.0 
+   * [Notebook-3 (encoder-decoder):](https://github.com/abhishek-niranjan/tf2-rnn-tutorials-for-beginners/blob/master/tutorial-notebooks/3_basic_encoder_decoder.ipynb) We build a encoder-decoder architecture with ```tf.keras.layers.GRU``` as the base recurrent layer in both encoder and decoder.
+   
